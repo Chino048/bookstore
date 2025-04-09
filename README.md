@@ -27,7 +27,7 @@
 
 ##專案結構
 
-```bash
+<pre>
 src
 |___main
     |__java
@@ -38,4 +38,4 @@ src
     |
     |___resources
         |____application.properties
-```
+</pre>
