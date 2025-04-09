@@ -29,7 +29,13 @@
 
 ```bash
 src
-    main
-        java
-            com.lee.bookstors
-            
+|___main
+    |__java
+    |    |___com.lee.bookstors
+    |        |___model         #Book Entity
+    |        |___repository    #JPA Repository
+    |        |___controller    #RESTful API
+    |
+    |___resources
+        |____application.properties
+```
