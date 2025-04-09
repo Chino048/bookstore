@@ -25,6 +25,14 @@
 
 ---
 
+##資料庫中的語法
+
+-**BookId**: INT，PRIMRY KEY AUTO_INCREMENT,
+-**名稱**: VARCHAR(50)，NOT NULL
+-**價格**: INT，NOT NULL
+-**作者**: VARCHAR(50),NOT NULL
+
+
 ##專案結構
 
 <pre>
